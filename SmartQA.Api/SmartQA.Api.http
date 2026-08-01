@@ -1,0 +1,6 @@
+@SmartQA.Api_HostAddress = http://localhost:5010
+
+GET {{SmartQA.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
